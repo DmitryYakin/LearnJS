@@ -1,4 +1,4 @@
-// Example of IF ELSE Statements
+TODO Example of IF ELSE Statements
 // let price = 23;
 // let hasAmountCash = 1;
 
@@ -11,7 +11,7 @@
 // }
 
 
-// Switch Case statement example
+TODO Switch Case statement example
 // let job = 'SF DEV';
 // let job = 'Designer';
 
@@ -26,7 +26,7 @@
 //         console.log('Who are you?')
 // }
 
-//FOR LOOP Example
+TODO FOR LOOP Example
 
 let numbers = [1,2,3,4,5,6,7]
 let idx = 0
@@ -37,7 +37,7 @@ let idx = 0
 // console.log(numbers[idx])
 // }
 
-// WHILE LOOP EXAMPLE
+TODO  WHILE LOOP EXAMPLE
 
 // while (idx  < numbers.length)
 // {
@@ -45,14 +45,14 @@ let idx = 0
 //     idx++
 // }
 
-// DO WHILE LOOP Example
+TODO DO WHILE LOOP Example
 
 // do {
 //     console.log(numbers[idx])
 //     idx++
 // } while (idx < numbers.length)
 
-//FOR IN LOOP Example
+TODO FOR IN LOOP Example
 
 // const course = {
 //     name: 'JS for beg',
@@ -65,11 +65,11 @@ let idx = 0
 //     console.log(course[key])
 // }
 
-//FOR OF LOOP
+TODO FOR OF LOOP
 
 // for (let element of numbers){
 //     console.log(element)
 // }
 
 
-//BREAK AND CONTINUES 
+TODO BREAK AND CONTINUES 

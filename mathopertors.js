@@ -16,8 +16,8 @@
 // const canDrink = age >=18 ? true : false
 // console.log(canDrink)
 
-// || - OR && - AND ! - NOT  ?? - to assigned a default value for variable if it's not define (null or undefiend)
-//  Example of ??
+TODO || - OR && - AND ! - NOT  ?? - to assigned a default value for variable if it's not define (null or undefiend)
+TODO Example of ??
 
 let a = null;
 //a = 4
